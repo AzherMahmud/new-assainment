@@ -38,11 +38,12 @@ h1 {
 }
 .link-button {
   text-decoration: none;
-  background-color: indianred;
+  background-color: rgb(224, 79, 79);
   color: white;
-  padding: 8px 20px;
+  padding: 8px 30px;
   font-weight: 699;
   border-radius: 05px;
+  margin-top: 15px;
 }
 #new {
   color: dodgerblue;
@@ -112,4 +113,59 @@ h1 {
 .up {
   font-size: 40px;
   margin-top: -20px;
+}
+.new-2 {
+  width: 40%;
+  margin-top: 135px;
+  margin-left: 80px;
+}
+.sec-4 {
+  width: 28%;
+  float: right;
+  margin-top: -300px;
+  margin-right: 110px;
+}
+.wait {
+  color: orangered;
+}
+.heading {
+  text-align: center;
+  font-size: 45px;
+  margin-top: 120px;
+  margin-left: 30px;
+}
+.last {
+  width: 18%;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+.background {
+  margin-left: 260px;
+  background-size: 120px;
+  background-image: url(shapes/shape-3.png);
+  background-repeat: no-repeat;
+}
+.background-1 {
+  background-size: 120px;
+  background-image: url(shapes/shape-3.png);
+  background-repeat: no-repeat;
+}
+.fast {
+  font-size: 23px;
+  margin-left: 550px;
+  margin-top: -320px;
+}
+.book {
+  margin-left: 550px;
+  width: 40%;
+  text-align: left;
+}
+.link-button-2 {
+  text-decoration: none;
+  background-color: rgb(224, 79, 79);
+  color: white;
+  padding: 8px 20px;
+  font-weight: 699px;
+  border-radius: 05px;
+  margin-left: 549px;
 }
