@@ -7,16 +7,23 @@ body {
 h1 {
   font-size: 50px;
 }
-span {
-  color: goldenrod;
+.prob2 {
+  color: darkkhaki;
 }
 .flexible-section {
   display: flex;
   padding-left: 50px;
+  position: relative;
 }
 .border {
-  border-left: 5px;
-  border-image: linear gredient(purper);
+  margin-left: -05px;
+  border-left: 5px solid red;
+  padding-left: 10px;
+  border-radius: 05px;
+  height: 32%;
+}
+#hight {
+  line-height: 1cm;
 }
 .half-width {
   width: 60%;
@@ -31,16 +38,51 @@ span {
 }
 .link-button {
   text-decoration: none;
-  background-image: linear-gradient(orange, red);
-  color: bisque;
-  padding: 10px 25px;
+  background-color: indianred;
+  color: white;
+  padding: 8px 20px;
   font-weight: 699;
   border-radius: 05px;
 }
+#new {
+  color: dodgerblue;
+}
 .middle {
   text-align: center;
-  font-size: 35px;
+  font-size: 45px;
 }
-#new {
-  color: coral;
+.new-part {
+  width: 30%;
+  float: right;
+}
+.photo {
+  width: 50%;
+}
+.new-1 {
+  background-color: darkgrey;
+  border-radius: 05px;
+}
+.text {
+  text-align: center;
+}
+.ami {
+  background-color: rgb(226, 216, 177);
+  border-radius: 20px;
+  width: 320px;
+  margin-right: 110px;
+}
+.tumi {
+  background-color: rgb(200, 190, 219);
+  border-radius: 20px;
+  width: 320px;
+  margin-right: 70px;
+}
+.sobai {
+  background-color: rgb(218, 184, 210);
+  border-radius: 20px;
+  width: 320px;
+  margin-right: 70px;
+}
+.paragraph {
+  padding-left: 10px;
 }
