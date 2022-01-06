@@ -169,3 +169,16 @@ h1 {
   border-radius: 05px;
   margin-left: 549px;
 }
+.footer {
+  text-align: center;
+  color: white;
+  height: 150px;
+  width: 100%;
+  margin-top: 100px;
+  background-color: #0b0d17;
+  margin-top: 10px;
+}
+.footer h3 {
+  color: cornsilk;
+  font-size: 30px;
+}
