@@ -90,3 +90,26 @@ h1 {
 .new-part p {
   text-align: justify;
 }
+.sec-3 {
+  padding-top: 50px;
+  width: 55%;
+  margin-left: 80px;
+}
+.new-sec {
+  width: 50%;
+  margin-top: 370px;
+  background-image: url(shapes/shape-1.png);
+  background-position: left;
+  background-size: 190px;
+  background-repeat: no-repeat;
+}
+.new {
+  width: 50%;
+  float: right;
+  margin-top: -280px;
+  margin-right: 110px;
+}
+.up {
+  font-size: 40px;
+  margin-top: -20px;
+}
